@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+	int a,b,c,small;
+	
+	printf("Enter a value of the first number:");
+	scanf("%d",&a);
+	printf("Enter a value of the second number:");
+	scanf("%d",&b);
+	printf("Enter a value of the third number:");
+	scanf("%d",&c);
+	
+	small = (a < b) ? ((a < c) ? a : c) : ((b < c) ? b : c);
+	printf("The minimum value is:%d",small);
+	return 0;
+}

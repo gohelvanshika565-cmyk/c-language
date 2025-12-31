@@ -1,0 +1,33 @@
+Q.1 ANS: 
+
+1. Start
+2. Declare Three integer variables a, b and c
+3. Read the value of a (first number)
+4. Read the value of b (second number)
+5. Read the value of c (third number)
+6. if(a<b)
+	Print a as the minimum number
+7. else if(b<c)
+	Print b as the minimum number
+8. else
+	Print c as the minimum number
+9. Stop
+
+
+Q.2 ANS:
+
+1. Start
+2. Declare four integer variables a, b, c and d
+3. Read the value of a (first number)
+4. Read the value of b (second number)
+5. Read the value of c (third number)
+6. Read the value of d (four number)
+7. if(a>b)
+	Print the maximum value is a
+8. else if(b>c)
+	Print the maximum value is b
+9. else if(c>d)
+ 	Print the maximum value is c
+10. else
+	Print the maximum value is d
+11. Stop
